@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashenmur
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning CS50, C++, Unreal Engine
+- 🌱 I’m currently learning CS50, C#, C++, Unity, Unreal Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ashenmur@gmail.com
 
